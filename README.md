@@ -1,2 +1,0 @@
-# APICallInReact
-Created with CodeSandbox
